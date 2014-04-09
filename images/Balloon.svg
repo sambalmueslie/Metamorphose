@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="37.029999"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Balloon.svg"
+   inkscape:export-filename="E:\Metamorphose 2\workspace\Metamorphose\src\main\resources\balloon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0052083"
+     inkscape:cx="31.353925"
+     inkscape:cy="73.887342"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1153"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <g
+       id="g3020-1-8"
+       transform="matrix(1.1000928,0,0,1.1000928,-8.3399323,-100.75282)"
+       style="fill:#44aa00;stroke:#225500">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect3013-8-4"
+         d="m 24.482314,1043.5776 2,4 -4,0 z"
+         style="fill:#44aa00;stroke:#225500" />
+      <path
+         sodipodi:nodetypes="sssssss"
+         inkscape:connector-curvature="0"
+         id="path3010-9-1"
+         d="m 34.418006,17.813504 c 0,3.303053 -2.297676,6.592442 -4.052624,9.056068 -1.754947,2.463626 -2.967166,4.101488 -5.645125,4.101488 -2.67796,0 -3.890178,-1.637862 -5.645125,-4.101488 -1.754948,-2.463626 -4.052624,-5.753015 -4.052624,-9.056068 0,-6.606106 4.34183,-10.7652729 9.697749,-10.7652729 5.355919,0 9.697749,4.1591669 9.697749,10.7652729 z"
+         style="fill:#44aa00;stroke:#225500"
+         transform="matrix(1.6498674,0,0,1.6720431,-16.37357,993.49043)" />
+    </g>
+  </g>
+</svg>

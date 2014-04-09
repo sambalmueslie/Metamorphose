@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55"
+   height="43"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="PowerUp-Bad.svg"
+   inkscape:export-filename="E:\Methamorphose\workspace\Metamorphose\src\main\resources\de\sambalmueslie\metamorphose\images\PowerUp-Bad.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="296.39802"
+     inkscape:cy="68.293745"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1153"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1009.3622)">
+    <g
+       id="g3994"
+       transform="matrix(1.1458949,0,0,1.1513885,-50.34053,955.80511)"
+       style="fill:#aa4400;stroke:#552200">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path2996"
+         d="m 61.453782,50.952093 c -7.812666,4.487275 -10.086458,16.309886 -9.278102,24.518262 5.803268,2.281105 14.151023,1.810334 19.702055,0.354992 6.325844,-2.544002 12.346389,-6.253072 15.13479,-12.209703 0.96116,-2.672795 4.432314,-11.059964 3.249752,-14.356276 -8.431306,-1.960413 -19.557075,-2.026766 -28.808495,1.692725 z"
+         style="fill:#aa4400;stroke:#552200;stroke-width:2.83993602000000010px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3801"
+         d="m 45.35475,82.445039 c 5.201627,-5.11782 10.780795,-9.837737 16.464728,-14.406881 2.168603,-1.590819 4.190865,-3.386936 6.561956,-4.689927 2.164712,-1.210097 4.218838,-2.5913 6.144456,-4.153293 0.616749,-0.464188 1.24216,-0.917498 1.887677,-1.341075"
+         style="fill:#aa4400;stroke:#552200;stroke-width:2.83993602000000010px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:none" />
+    </g>
+  </g>
+</svg>

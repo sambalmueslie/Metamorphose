@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90"
+   height="111.35"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Helicopter.svg"
+   inkscape:export-filename="E:\Metamorphose 2\workspace\Metamorphose\src\main\resources\helicopter.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="159.58168"
+     inkscape:cy="44.514054"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1153"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-941.01218)">
+    <g
+       id="g3002"
+       transform="translate(-45,0.00222023)"
+       inkscape:export-filename="E:\Metamorphose 2\workspace\Metamorphose\src\main\resources\helicopter.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Sambalmueslie\Pictures\aluette-rumpf.png"
+         style="fill:#c8b7b7"
+         transform="matrix(0.34035195,0,0,0.34035195,-25.256725,877.78522)"
+         id="g3837">
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 311.63206,345.2554 0,-91.92388"
+           id="path2996"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 365.67522,253.33152 0,92.93403"
+           id="path2998"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:4.92325735;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 312.56606,294.2427 51.41755,0"
+           id="path3006"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:4.87998247;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 312.77546,320.50666 50.99875,0"
+           id="path3008"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:4.87998247;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 312.77546,341.71987 50.99875,0"
+           id="path3010"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:1.65631783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3000"
+           sodipodi:cx="339.41125"
+           sodipodi:cy="280.60565"
+           sodipodi:rx="14.142136"
+           sodipodi:ry="32.324883"
+           d="m 353.55339,280.60565 c 0,17.85254 -6.33165,32.32488 -14.14214,32.32488 -7.81048,0 -14.14213,-14.47234 -14.14213,-32.32488 0,-17.85254 6.33165,-32.32488 14.14213,-32.32488 7.81049,0 14.14214,14.47234 14.14214,32.32488 z"
+           transform="matrix(1.4674706,0,0,0.99358086,-159.92746,2.8113972)" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 331.0775,467.23132 0.75761,44.69925"
+           id="path3792"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 331.83511,489.70721 6.31345,0.25254"
+           id="path3794"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3796"
+           width="17.67767"
+           height="13.637059"
+           x="314.91507"
+           y="449.57394"
+           rx="2"
+           ry="2" />
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3796-1"
+           width="17.67767"
+           height="13.637059"
+           x="346.9874"
+           y="449.57394"
+           rx="2"
+           ry="2" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 332.59273,453.34172 14.39467,0"
+           id="path3818"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3825"
+           width="23.468945"
+           height="27.00448"
+           x="326.41412"
+           y="314.58057"
+           rx="1.9772825"
+           ry="2.4029725" />
+        <path
+           style="fill:#c8b7b7;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 326.65808,343.99271 5.05076,23.35978 6.31346,124.88011 1.76776,-0.12627 5.93465,-124.88011 4.41942,-22.98097"
+           id="path3827"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.37196772,0,0,0.37196772,-87.370279,926.2999)"
+         id="g3001">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3981"
+           sodipodi:cx="393.57144"
+           sodipodi:cy="333.79074"
+           sodipodi:rx="107.14286"
+           sodipodi:ry="123.57143"
+           d="m 500.7143,333.79074 c 0,68.24662 -47.96949,123.57143 -107.14286,123.57143 -59.17337,0 -107.14286,-55.32481 -107.14286,-123.57143 0,-68.24661 47.96949,-123.57143 107.14286,-123.57143 59.17337,0 107.14286,55.32482 107.14286,123.57143 z"
+           transform="matrix(1.112747,0,0,0.96480956,39.876001,-162.50376)"
+           inkscape:export-filename="C:\Users\Sambalmueslie\Pictures\aluette-rotor.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:1.45549929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3852"
+           width="118.54451"
+           height="6.5445008"
+           x="356.59271"
+           y="156.26849"
+           rx="1.7271281"
+           ry="2.5902066"
+           inkscape:export-filename="C:\Users\Sambalmueslie\Pictures\aluette-rotor.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:1.45549929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3852-2"
+           width="118.54451"
+           height="6.5445008"
+           x="380.64957"
+           y="-336.94342"
+           rx="1.7271281"
+           ry="2.5902066"
+           transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+           inkscape:export-filename="C:\Users\Sambalmueslie\Pictures\aluette-rotor.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:1.45549929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3852-0"
+           width="118.54451"
+           height="6.5445008"
+           x="103.45081"
+           y="490.43961"
+           rx="1.7271281"
+           ry="2.5902066"
+           transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+           inkscape:export-filename="C:\Users\Sambalmueslie\Pictures\aluette-rotor.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#c8b7b7;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3884"
+           sodipodi:cx="340.17856"
+           sodipodi:cy="324.86218"
+           sodipodi:rx="5.8928571"
+           sodipodi:ry="5.7142859"
+           d="m 346.07142,324.86218 c 0,3.15592 -2.63833,5.71429 -5.89286,5.71429 -3.25454,0 -5.89286,-2.55837 -5.89286,-5.71429 0,-3.15591 2.63832,-5.71428 5.89286,-5.71428 3.25453,0 5.89286,2.55837 5.89286,5.71428 z"
+           transform="translate(137.64288,-165.32144)"
+           inkscape:export-filename="C:\Users\Sambalmueslie\Pictures\aluette-rotor.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+  </g>
+</svg>
