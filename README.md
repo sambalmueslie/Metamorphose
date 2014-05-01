@@ -7,6 +7,5 @@ https://github.com/noxo/asteroidrace-javafx/tree/master/asteroidrace-javafx
 
 Raspberry PI configuration
 ==========================
-GPU Memory 256MB
-
-Resolution 800x600
+* GPU Memory 256MB
+* Resolution 800x600
